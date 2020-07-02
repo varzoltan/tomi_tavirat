@@ -1,0 +1,7 @@
+C:\Users\Rendszergazda\Documents\GitHub\tomi_tavirat\tomi_tavirat\bin\Debug\tomi_tavirat.exe.config
+C:\Users\Rendszergazda\Documents\GitHub\tomi_tavirat\tomi_tavirat\bin\Debug\tomi_tavirat.exe
+C:\Users\Rendszergazda\Documents\GitHub\tomi_tavirat\tomi_tavirat\bin\Debug\tomi_tavirat.pdb
+C:\Users\Rendszergazda\Documents\GitHub\tomi_tavirat\tomi_tavirat\obj\Debug\tomi_tavirat.csprojAssemblyReference.cache
+C:\Users\Rendszergazda\Documents\GitHub\tomi_tavirat\tomi_tavirat\obj\Debug\tomi_tavirat.csproj.CoreCompileInputs.cache
+C:\Users\Rendszergazda\Documents\GitHub\tomi_tavirat\tomi_tavirat\obj\Debug\tomi_tavirat.exe
+C:\Users\Rendszergazda\Documents\GitHub\tomi_tavirat\tomi_tavirat\obj\Debug\tomi_tavirat.pdb
