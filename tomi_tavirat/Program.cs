@@ -86,7 +86,23 @@ namespace tomi_tavirat
             {
                 Console.WriteLine("Nem volt szélcsend a a mérések idején.");
             }
-            
+
+            //5.a feladat
+            int m = 0;
+            string[] varosok = new string[n];
+            for (int i = 0;i<n;i++)
+            {
+                int j = 0;
+                while (adatok[i].telepules != varosok[j] && j<i)
+                {
+                    j++;
+                }
+                if(j == m)
+                {
+                    varosok[m] = adatok[j].telepules;
+                    m++;
+                }
+            }
             Console.ReadKey();
         }
     }
